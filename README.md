@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hola a Todos 👋
 Soy Juan Carlos Medina, Ingeniero en informática. Graduado en la Universidad Privada Dr. Rafael Belloso Chacín URBE, tambien me desempeño como Docente de Pregrado de la escuela de ingeniería en informática, tutor academico y jurado de tesis grado.
 
 Creo cursos online en español para enseñar programación e informática.
 
-https://cdn-icons-png.flaticon.com/512/1946/1946032.png PERFILES DOCENTES: ESP. JUAN MEDINA
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8SoQQPGCm5I?si=nB51z4ygEiSSysaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+PERFILES DOCENTES: ESP. JUAN MEDINA
+<a href="https://www.youtube.com/embed/8SoQQPGCm5I?si=nB51z4ygEiSSysaM" title="YouTube video player">youtube</>
 
 <!--
 **jcmedinaf/jcmedinaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
