@@ -1,7 +1,7 @@
 ### Hi there 👋
 Soy Juan Carlos Medina, Ingeniero en informática. Graduado en la Universidad Privada Dr. Rafael Belloso Chacín URBE, tambien me desempeño como Docente de Pregrado de la escuela de ingeniería en informática, tutor academico y jurado de tesis grado.
 
-Creo cursos online en inglés y español para enseñar programación e informática.
+Creo cursos online en español para enseñar programación e informática.
 
 <!--
 **jcmedinaf/jcmedinaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
