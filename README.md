@@ -3,6 +3,9 @@ Soy Juan Carlos Medina, Ingeniero en informática. Graduado en la Universidad Pr
 
 Creo cursos online en español para enseñar programación e informática.
 
+https://cdn-icons-png.flaticon.com/512/1946/1946032.png PERFILES DOCENTES: ESP. JUAN MEDINA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8SoQQPGCm5I?si=nB51z4ygEiSSysaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <!--
 **jcmedinaf/jcmedinaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
