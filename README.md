@@ -4,7 +4,7 @@ Soy Juan Carlos Medina, Ingeniero en informática. Graduado en la Universidad Pr
 Creo cursos online en español para enseñar programación e informática.
 
 PERFILES DOCENTES: ESP. JUAN MEDINA <br>
-<a href="https://www.youtube.com/embed/8SoQQPGCm5I?si=nB51z4ygEiSSysaM" title="YouTube video player"> youtube </a>
+<a href="https://www.youtube.com/embed/8SoQQPGCm5I?si=nB51z4ygEiSSysaM" title="YouTube video player" target="_blank"> Youtube </a>
 
 <!--
 **jcmedinaf/jcmedinaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
