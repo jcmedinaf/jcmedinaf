@@ -1,13 +1,13 @@
 # ¡Hola a todos! 👋
 
-Soy **Juan Carlos Medina**, Ingeniero en Informática, MSc. en Gerencia de proyectos de investigacion y desarrollo, graduado en la Universidad Privada Dr. Rafael Belloso Chacín (URBE). Actualmente me desempeño como docente de pregrado en la Escuela de Ingeniería en Informática, tutor académico y jurado de tesis de grado. 
+Soy **Juan Carlos Medina**, Ingeniero en Informática egresado de la Universidad Privada Dr. Rafael Belloso Chacín (URBE) y Magíster en Gerencia de Proyectos de Investigación y Desarrollo. Actualmente me desempeño como docente de pregrado en la Escuela de Ingeniería en Informática, tutor académico y jurado de tesis de grado.
 
-También soy creador de contenido educativo y cursos en línea en español enfocados en programación, bases de datos y desarrollo de software.
+Apasionado por la ingeniería de software, la optimización de bases de datos y la enseñanza técnica a través de la creación de contenido educativo en español.
 
 ---
 
-> 🎓 **Proyecto Académico / Educativo**  
-> Desarrollado por **Juan Carlos Medina** con fines de aprendizaje, demostración de arquitectura desacoplada y diseño de Single Page Applications (SPA).
+> 🎓 **Perfil Profesional & Docente**  
+> Enfoque especializado en arquitecturas web ligeras, diseño de sistemas robustos, administración de bases de datos relacionales y mentoría académica de futuros ingenieros.
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -25,16 +25,16 @@ También soy creador de contenido educativo y cursos en línea en español enfoc
 
 ---
 
-### 👨‍💻 Sobre mí & Enfoque Profesional
-* **Áreas de especialización:** Ingeniería de Software, administración de bases de datos y desarrollo web.
-* **Docencia:** Desarrollo de planes académicos en Java, PHP, sistemas de gestión de bases de datos y diseño instruccional.
-* **Divulgación:** Apasionado por la enseñanza técnica y la mentoría de futuros ingenieros.
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.ai/api?username=jcmedinaf&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
-### 🌐 ¿Dónde encontrarme?
+### 🌐 Conectemos
 
-* 📺 **YouTube:** [Visita mi canal]([https://tu-enlace-de-youtube](https://www.youtube.com/embed/8SoQQPGCm5I?si=nB51z4ygEiSSysaM)) *(Añade aquí tu link)*
+* 📺 **YouTube:** [Canal de Cursos y Programación](https://tu-enlace-de-youtube)
 * 📚 **Portal Educativo:** [Cátedra de Software](https://catedradesoftware.wordpress.com)
 * 🐙 **GitHub:** [@jcmedinaf](https://github.com/jcmedinaf)
 
@@ -42,18 +42,3 @@ También soy creador de contenido educativo y cursos en línea en español enfoc
 <p align="center">
   <em>"Compartir el conocimiento es la mejor forma de construir el futuro de la ingeniería."</em>
 </p>
-
-<!--
-**jcmedinaf/jcmedinaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
