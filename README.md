@@ -25,14 +25,6 @@ Apasionado por la ingeniería de software, la optimización de bases de datos y 
 
 ---
 
-### 📈 Actividad del Perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jcmedinaf&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
-</p>
-
----
-
 ### 🌐 Conectemos
 
 * 📺 **YouTube:** [Canal de Cursos y Programación](https://tu-enlace-de-youtube)
