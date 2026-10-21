@@ -1,7 +1,28 @@
-### Hola a Todos 👋
-Soy Juan Carlos Medina, Ingeniero en informática. Graduado en la Universidad Privada Dr. Rafael Belloso Chacín URBE, tambien me desempeño como Docente de Pregrado de la escuela de ingeniería en informática, tutor academico y jurado de tesis grado.
+# ¡Hola a todos! 👋
 
-Creo cursos online en español para enseñar programación e informática.
+Soy **Juan Carlos Medina**, Ingeniero en Informática graduado en la Universidad Privada Dr. Rafael Belloso Chacín (URBE). Actualmente me desempeño como docente de pregrado en la Escuela de Ingeniería en Informática, tutor académico y jurado de tesis de grado. 
+
+También soy creador de contenido educativo y cursos en línea en español enfocados en programación, bases de datos y desarrollo de software.
+
+---
+
+### 👨‍💻 Sobre mí & Enfoque Profesional
+* **Áreas de especialización:** Ingeniería de Software, administración de bases de datos y desarrollo web.
+* **Docencia:** Desarrollo de planes académicos en Java, PHP, sistemas de gestión de bases de datos y diseño instruccional.
+* **Divulgación:** Apasionado por la enseñanza técnica y la mentoría de futuros ingenieros.
+
+---
+
+### 🌐 ¿Dónde encontrarme?
+
+* 📺 **YouTube:** [Visita mi canal](https://tu-enlace-de-youtube) *(Añade aquí tu link)*
+* 📚 **Portal Educativo:** [Cátedra de Software](https://catedradesoftware.wordpress.com)
+* 🐙 **GitHub:** [@jcmedinaf](https://github.com/jcmedinaf)
+
+---
+<p align="center">
+  <em>"Compartir el conocimiento es la mejor forma de construir el futuro de la ingeniería."</em>
+</p>
 
 PERFILES DOCENTES: ESP. JUAN MEDINA <br>
 <a href="https://www.youtube.com/embed/8SoQQPGCm5I?si=nB51z4ygEiSSysaM" title="YouTube video player" target="_blank"> Youtube </a>
