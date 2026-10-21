@@ -1,6 +1,6 @@
 # ¡Hola a todos! 👋
 
-Soy **Juan Carlos Medina**, Ingeniero en Informática graduado en la Universidad Privada Dr. Rafael Belloso Chacín (URBE). Actualmente me desempeño como docente de pregrado en la Escuela de Ingeniería en Informática, tutor académico y jurado de tesis de grado. 
+Soy **Juan Carlos Medina**, Ingeniero en Informática, MSc. en Gerencia de proyectos de investigacion y desarrollo, graduado en la Universidad Privada Dr. Rafael Belloso Chacín (URBE). Actualmente me desempeño como docente de pregrado en la Escuela de Ingeniería en Informática, tutor académico y jurado de tesis de grado. 
 
 También soy creador de contenido educativo y cursos en línea en español enfocados en programación, bases de datos y desarrollo de software.
 
@@ -25,7 +25,7 @@ También soy creador de contenido educativo y cursos en línea en español enfoc
 
 ### 🌐 ¿Dónde encontrarme?
 
-* 📺 **YouTube:** [Visita mi canal](https://tu-enlace-de-youtube) *(Añade aquí tu link)*
+* 📺 **YouTube:** [Visita mi canal]([https://tu-enlace-de-youtube](https://www.youtube.com/embed/8SoQQPGCm5I?si=nB51z4ygEiSSysaM)) *(Añade aquí tu link)*
 * 📚 **Portal Educativo:** [Cátedra de Software](https://catedradesoftware.wordpress.com)
 * 🐙 **GitHub:** [@jcmedinaf](https://github.com/jcmedinaf)
 
@@ -33,8 +33,6 @@ También soy creador de contenido educativo y cursos en línea en español enfoc
 <p align="center">
   <em>"Compartir el conocimiento es la mejor forma de construir el futuro de la ingeniería."</em>
 </p>
-PERFILES DOCENTES: ESP. JUAN MEDINA <br>
-<a href="https://www.youtube.com/embed/8SoQQPGCm5I?si=nB51z4ygEiSSysaM" title="YouTube video player" target="_blank"> Youtube </a>
 
 <!--
 **jcmedinaf/jcmedinaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
