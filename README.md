@@ -6,6 +6,16 @@ También soy creador de contenido educativo y cursos en línea en español enfoc
 
 ---
 
+> 🎓 **Proyecto Académico / Educativo**  
+> Desarrollado por **Juan Carlos Medina** con fines de aprendizaje, demostración de arquitectura desacoplada y diseño de Single Page Applications (SPA).
+
+[![PHP Version](https://img.shields.io/badge/PHP-7.x%20%2F%208.x-blue.svg)](https://php.net)
+[![MySQL](https://img.shields.io/badge/Database-MySQLi-orange.svg)](https://mysql.com)
+[![Architecture](https://img.shields.io/badge/Architecture-SPA%20%2F%20RESTful-purple.svg)]()
+[![Vanilla JS](https://img.shields.io/badge/JavaScript-ES6%20Modules-yellow.svg)](https://developer.mozilla.org)
+
+---
+
 ### 👨‍💻 Sobre mí & Enfoque Profesional
 * **Áreas de especialización:** Ingeniería de Software, administración de bases de datos y desarrollo web.
 * **Docencia:** Desarrollo de planes académicos en Java, PHP, sistemas de gestión de bases de datos y diseño instruccional.
@@ -23,7 +33,6 @@ También soy creador de contenido educativo y cursos en línea en español enfoc
 <p align="center">
   <em>"Compartir el conocimiento es la mejor forma de construir el futuro de la ingeniería."</em>
 </p>
-
 PERFILES DOCENTES: ESP. JUAN MEDINA <br>
 <a href="https://www.youtube.com/embed/8SoQQPGCm5I?si=nB51z4ygEiSSysaM" title="YouTube video player" target="_blank"> Youtube </a>
 
