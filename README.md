@@ -25,10 +25,11 @@ Apasionado por la ingeniería de software, la optimización de bases de datos y 
 
 ---
 
-### 📈 Actividad en GitHub
-
+### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jcmedinaf&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Visitas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jcmedinaf&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jcmedinaf&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
