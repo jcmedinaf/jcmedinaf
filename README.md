@@ -27,7 +27,7 @@ Apasionado por la ingeniería de software, la optimización de bases de datos y 
 
 ### 🌐 Conectemos
 
-* 📺 **YouTube:** [Canal de Cursos y Programación](https://tu-enlace-de-youtube)
+* 📺 **YouTube:** [Perfiles Docentes: Esp. Juan Medina](https://www.youtube.com/watch?v=8SoQQPGCm5I)
 * 📚 **Portal Educativo:** [Cátedra de Software](https://catedradesoftware.wordpress.com)
 * 🐙 **GitHub:** [@jcmedinaf](https://github.com/jcmedinaf)
 
