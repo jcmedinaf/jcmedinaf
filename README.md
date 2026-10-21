@@ -9,16 +9,6 @@ También soy creador de contenido educativo y cursos en línea en español enfoc
 > 🎓 **Proyecto Académico / Educativo**  
 > Desarrollado por **Juan Carlos Medina** con fines de aprendizaje, demostración de arquitectura desacoplada y diseño de Single Page Applications (SPA).
 
-[![PHP Version](https://img.shields.io/badge/PHP-7.x%20%2F%208.x-blue.svg)](https://php.net)
-[![MySQL](https://img.shields.io/badge/Database-MySQLi-orange.svg)](https://mysql.com)
-[![Architecture](https://img.shields.io/badge/Architecture-SPA%20%2F%20RESTful-purple.svg)]()
-[![Vanilla JS](https://img.shields.io/badge/JavaScript-ES6%20Modules-yellow.svg)](https://developer.mozilla.org)
-
----
-
-> 🎓 **Proyecto Académico / Educativo**  
-> Desarrollado por **Juan Carlos Medina** con fines de aprendizaje, demostración de arquitectura desacoplada y diseño de Single Page Applications (SPA).
-
 ### 🛠️ Tecnologías y Herramientas
 
 [![PHP](https://img.shields.io/badge/PHP-7.x%20%2F%208.x-777BB4?style=flat&logo=php&logoColor=white)](https://php.net)
